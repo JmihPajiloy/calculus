@@ -3,7 +3,7 @@ name: Deploy VitePress
 on:
   push:
     branches:
-      - main  # или master, если у тебя мастер
+      - master  # или master, если у тебя мастер
 
 permissions:
   contents: write

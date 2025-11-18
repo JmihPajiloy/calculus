@@ -19,7 +19,7 @@ export default defineConfig({
           { text: 'Билет 7', link: '/07' },
           { text: 'Билет 8', link: '/08' },
           { text: 'Билет 9', link: '/09' },
-          { text: 'Билет 10', link: '/010' },
+          { text: 'Билет 10', link: '/10' },
           { text: 'Билет 11', link: '/11' },
           { text: 'Билет 12', link: '/12' },
           { text: 'Билет 13', link: '/13' },
@@ -30,6 +30,14 @@ export default defineConfig({
           { text: 'Билет 18', link: '/18' },
           { text: 'Билет 19', link: '/19' },
           { text: 'Билет 20', link: '/20' },
+          { text: 'Билет 21', link: '/21' },
+          { text: 'Билет 22', link: '/22' },
+          { text: 'Билет 23', link: '/23' },
+          { text: 'Билет 24', link: '/24' },
+          { text: 'Билет 25', link: '/25' },
+          { text: 'Билет 26', link: '/26' },
+          { text: 'Билет 27', link: '/27' },
+          { text: 'Билет 28', link: '/28' },
         ]
       }
     ],
