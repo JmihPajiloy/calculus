@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ДГМА",
   description: "Билеты",
-  base: '/conspects/',
+  // base: '/conspects/',
   cleanUrls: true,
   themeConfig: {
     sidebar: [
