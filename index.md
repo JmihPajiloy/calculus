@@ -3,23 +3,15 @@
 layout: home
 
 hero:
-  name: "ДГМА"
-  text: "Билеты"
-  tagline: My great project tagline
+  name: "Конспекты"
+  text: "ыаыа"
+  tagline: М-м-мармок
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: S3 ДГМА
+      link: /dgma
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: S3 ДГМА 
+    details: Билеты к Коллоквиуму
 ---
 
