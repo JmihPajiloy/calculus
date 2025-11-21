@@ -5,6 +5,19 @@ export default defineConfig({
   base: '/calculus',
   cleanUrls: true,
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
+    footer: {
+      copyright: 'Made by Jmih Pajiloy'
+    },
+    lastUpdated: {
+      text: 'Последнее изменение',
+      formatOptions: {
+        dateStyle: 'medium',
+        timeStyle: 'medium'
+      }
+    },
     sidebar: [
       {
         text: 'S3 ДГМА',

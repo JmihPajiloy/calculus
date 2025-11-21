@@ -6,6 +6,9 @@ hero:
   name: "Конспекты"
   text: "ыаыа"
   tagline: М-м-мармок
+  image:
+    src: /assets/logo.jpg
+    alt: Лого
   actions:
     - theme: brand
       text: S3 ДГМА
